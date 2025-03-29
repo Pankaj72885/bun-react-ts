@@ -19,20 +19,23 @@ A project template using Bun, React, and TypeScript for building modern web appl
 ## Getting Started
 
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/your-username/BUN-REACT-TS.git
-  cd BUN-REACT-TS
-  ```
+
+```bash
+git clone https://github.com/Pankaj72885/bun-react-ts.git
+cd BUN-REACT-TS
+```
 
 2. Install dependencies:
-  ```bash
-  bun install
-  ```
+
+```bash
+bun install
+```
 
 3. Start the development server:
-  ```bash
-  bun run dev
-  ```
+
+```bash
+bun run dev
+```
 
 4. Open your browser at `http://localhost:3000`.
 
